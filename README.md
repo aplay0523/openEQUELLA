@@ -1,3 +1,6 @@
+https://www.notion.so/OpenEquella-23d9271921f4802a9035f9f1d1022221
+노션 사용가드 정리
+
 # openEQUELLA
 
 [![openEQUELLA CI](https://github.com/openequella/openEQUELLA/workflows/openEQUELLA%20CI/badge.svg?branch=develop)](https://github.com/openequella/openEQUELLA/actions?query=workflow%3A%22openEQUELLA+CI%22+branch%3Adevelop)
